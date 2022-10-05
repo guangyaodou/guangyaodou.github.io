@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Guangyao Dou"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "A senior at Brandeis University majoring in Computer Science"
   location         : "Waltham, MA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dBJGt6gAAAAJ&hl=en"
   email            : guangyaodou@brandeis.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/guangyaodou"
+  github           : "guangyaodou"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/guangyao-dou/"
+  linkedin         : "guangyao-dou"
   orcid            : "https://orcid.org/0000-0001-8011-9658"
   pinterest        :
   soundcloud       :
