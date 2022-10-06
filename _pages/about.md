@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior at [Brandeis University](https://www.brandeis.edu/) majoring in computer science. I have been doing research on Electroencephalography (EEG)-based Brain-Computer Interfaces, applications of machine learning, and deep learning, supervised by Professor [Xiaodong Qu](https://www.cs.swarthmore.edu/~xqu1/). Check out my publications [here](/publications/). I also served as a reviewer for [NeurIPS 2022 Datasets and Benchmarks Track](https://neurips.cc/Conferences/2021/CallForDatasetsBenchmarks).
+I am a senior at [Brandeis University](https://www.brandeis.edu/) majoring in computer science. I have been doing research on Electroencephalography (EEG)-based Brain-Computer Interfaces, applications of machine learning, and deep learning, supervised by Professor [Xiaodong Qu](https://www.cs.swarthmore.edu/~xqu1/). I also served as a reviewer for [NeurIPS 2022 Datasets and Benchmarks Track](https://neurips.cc/Conferences/2021/CallForDatasetsBenchmarks).
 
 This semester, I joined Graph Learning Group, supervised by Professor [Pengyu Hong](https://www.brandeis.edu/facultyguide/person.html?emplid=e02e9cdcd77a4ce11e620139c379f43742682961), and worked with his Ph.D. student [Yifei Wang](https://github.com/yifeiwang15). We are studying representation learning with application to chemical molecules.
 
