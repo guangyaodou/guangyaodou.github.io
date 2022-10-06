@@ -5,6 +5,7 @@ collection: publications
 permalink: /publication/EEG4Students
 excerpt: 'This paper is about how to conduct EEG data collection experiments with consumer-grade devices in remote settings and the machine learning analysis of our datasets.'
 date: 2022-08-24
+venue: 'KDD Undergraduate Consortium'
 paperurl: 'http://guangyaodou.github.io/files/EEG4Students.pdf'
 ---
 This paper is about how to conduct EEG data collection experiments with consumer-grade devices in remote settings and the machine learning analysis of our datasets.
