@@ -10,4 +10,4 @@ paperurl: 'http://guangyaodou.github.io/files/EEG4Students.pdf'
 ---
 This paper is about how to conduct EEG data collection experiments with consumer-grade devices in remote settings and the machine learning analysis of our datasets.
 
-[Download paper here]([http://academicpages.github.io/files/paper1.pdf](http://guangyaodou.github.io/files/EEG4Students.pdf))
+[Download paper here](http://guangyaodou.github.io/files/EEG4Students.pdf)
