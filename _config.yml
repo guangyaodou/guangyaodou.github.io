@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Guangyao Dou"
   avatar           : "Guangyao_Profile.png"
-  bio              : "A senior at Brandeis University majoring in Computer Science"
-  location         : "Waltham, MA"
+  bio              : "First year Data Scinece Master at UPenn"
+  location         : "Philadelphia, PA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dBJGt6gAAAAJ&hl=en"
-  email            : guangyaodou@brandeis.edu
+  email            : gydou@seas.upenn.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
