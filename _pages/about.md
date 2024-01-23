@@ -29,8 +29,8 @@ Publications
 
 <span style="font-size:1.3em;">[Breaking the Trilemma of Privacy, Utility, Efficiency via Controllable Machine Unlearning
 ](https://arxiv.org/abs/2310.18574)</span><br/>
-<span style="font-size:1em;"> Zheyuan Liu*, **Guangyao Dou***, Yijun Tian, Chunhui Zhang, Eli Chien, Ziwei Zhu</span><br/>
-<span >Under Review </span>
+<span style="font-size:1em;"> Zheyuan Liu*, Guangyao Dou*, Yijun Tian, Chunhui Zhang, Eli Chien, Ziwei Zhu</span><br/>
+<span >Accepted by TheWebConf 2024 (a.k.a WWW)</span>
 
 <span style="font-size:1.3em;">[Time Majority Voting, a PC-Based EEG Classifier for Non-expert Users
 ](https://arxiv.org/pdf/2207.12662.pdf)</span><br/>
