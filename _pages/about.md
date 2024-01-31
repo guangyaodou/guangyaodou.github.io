@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-"I am a first-year data science master's student at the University of Pennsylvania. This semester, I am working as an NLP research assistant in the Management Department at Wharton. 
+I am a first-year data science master's student at the University of Pennsylvania. This semester, I am working as an NLP research assistant in the Management Department at Wharton. 
 Moreover, I am doing machine unlearning research on LLMs under the supervision of Professor Chris Callison-Burch.
 
 I obtained my BS in Computer Science from Brandeis University. During my undergraduate studies, I conducted research on Electroencephalography (EEG)-based Brain-Computer Interfaces and applications of machine learning and deep learning. I also served as a reviewer for the NeurIPS 2022 Datasets and Benchmarks Track. 
