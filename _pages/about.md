@@ -11,10 +11,6 @@ redirect_from:
 I am a first-year Data Science master's student at the University of Pennsylvania. This semester, I am working as an NLP research assistant in the Management Department at Wharton. 
 Moreover, I am doing my master's thesis on unlearning for LLMs under the supervision of Professor Chris Callison-Burch.
 
-I obtained my BS in Computer Science from Brandeis University. During my undergraduate studies, I conducted research on Electroencephalography (EEG)-based Brain-Computer Interfaces and applications of machine learning and deep learning. I also served as a reviewer for the NeurIPS 2022 Datasets and Benchmarks Track. 
-
-I am actively looking for ML-related internships in the summer of 2024. Please contact me if you have any questions or are interested in collaboration!
-
 Publications
 ======
 
@@ -29,7 +25,7 @@ Publications
 ](https://arxiv.org/abs/2402.10058)</span><br/>
 <span style="font-size:1em;">Zheyuan Liu, <b>Guangyao Dou</b>, Zhaoxuan Tan, Yijun Tian, Meng Jiang</span>
 <br/>
-<span >Under review</span>
+<span >Accepted by ACL 2024</span>
 
 <span style="font-size:1.3em;">[Breaking the Trilemma of Privacy, Utility, Efficiency via Controllable Machine Unlearning
 ](https://arxiv.org/abs/2310.18574)</span><br/>
