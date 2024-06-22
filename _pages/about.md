@@ -21,11 +21,16 @@ Publications
 [//]: # (<span style="font-size:1em;"> **Guangyao Dou**, Zheng Zhou</span><br/>)
 
 [//]: # (<span >In KDD Undergraduate Consortium 2022 </span>)
+<span style="font-size:1.3em;">[Avoiding Copyright Infringement via Machine Unlearning](https://arxiv.org/abs/2406.10952)</span><br/>
+<span style="font-size:1em;"><b>Guangyao Dou</b>, Zheyuan Liu , Qing Lyu, Kaize Ding, Eric Wong</span>
+<br/> 
+<span > Under Review </span>
+
 <span style="font-size:1.3em;">[Towards Safer Large Language Models through Machine Unlearning
 ](https://arxiv.org/abs/2402.10058)</span><br/>
 <span style="font-size:1em;">Zheyuan Liu, <b>Guangyao Dou</b>, Zhaoxuan Tan, Yijun Tian, Meng Jiang</span>
 <br/>
-<span >Accepted by ACL 2024</span>
+<span >Accepted by ACL Findings 2024</span>
 
 <span style="font-size:1.3em;">[Breaking the Trilemma of Privacy, Utility, Efficiency via Controllable Machine Unlearning
 ](https://arxiv.org/abs/2310.18574)</span><br/>
