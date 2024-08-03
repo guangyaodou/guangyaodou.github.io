@@ -21,6 +21,11 @@ Publications
 [//]: # (<span style="font-size:1em;"> **Guangyao Dou**, Zheng Zhou</span><br/>)
 
 [//]: # (<span >In KDD Undergraduate Consortium 2022 </span>)
+<span style="font-size:1.3em;">[Machine Unlearning in Generative AI: A Survey](https://arxiv.org/abs/2407.20516)</span><br/>
+<span style="font-size:1em;">Zheyuan Liu , <b>Guangyao Dou</b>, Zhaoxuan Tan, Yijun Tian, Meng Jiang</span>
+<br/> 
+<span > Under Review </span>
+
 <span style="font-size:1.3em;">[Avoiding Copyright Infringement via Machine Unlearning](https://arxiv.org/abs/2406.10952)</span><br/>
 <span style="font-size:1em;"><b>Guangyao Dou</b>, Zheyuan Liu , Qing Lyu, Kaize Ding, Eric Wong</span>
 <br/> 
@@ -52,3 +57,5 @@ Publications
 [//]: # (<!-- Clustrmaps Widget -->)
 
 [//]: # (<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mZps67DUQSsO1JP9Fx6oRkV89qTqoJeMlvxG8RC3CwU&cl=ffffff&w=a"></script>)
+
+[//]: # (<a href="https://clustrmaps.com/site/1c0dz" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=mZps67DUQSsO1JP9Fx6oRkV89qTqoJeMlvxG8RC3CwU&cl=ffffff"></a>)
