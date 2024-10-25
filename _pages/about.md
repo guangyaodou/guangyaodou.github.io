@@ -53,11 +53,19 @@ Publications
 <span style="font-size:1em;"> Zheng Zhou, <b>Guangyao Dou</b>, Xiaodong Qu</span><br/>
 <span >International Conference on Human-Computer Interaction </span>
 
- 
+<!-- Clustrmaps Widget -->
+<div style="width: 150px; height: auto;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mZps67DUQSsO1JP9Fx6oRkV89qTqoJeMlvxG8RC3CwU&cl=ffffff&w=a"></script>
+  <a href="https://clustrmaps.com/site/1c0dz" title="Visit tracker">
+    <img src="//www.clustrmaps.com/map_v2.png?d=mZps67DUQSsO1JP9Fx6oRkV89qTqoJeMlvxG8RC3CwU&cl=ffffff" style="width: 100%; height: auto;">
+  </a>
+</div>
+
  
 
 [//]: # (<!-- Clustrmaps Widget -->)
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mZps67DUQSsO1JP9Fx6oRkV89qTqoJeMlvxG8RC3CwU&cl=ffffff&w=a"></script>
-<div style="height:1px; margin-top:20px; margin-bottom:20px; background-image:linear-gradient(to right, transparent, #ddd, transparent);"></div>
+[//]: # (<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mZps67DUQSsO1JP9Fx6oRkV89qTqoJeMlvxG8RC3CwU&cl=ffffff&w=a"></script>)
+
+[//]: # (<div style="height:0.1px; margin-top:20px; margin-bottom:20px; background-image:linear-gradient&#40;to right, transparent, #ddd, transparent&#41;;"></div>)
 
 [//]: # (<a href="https://clustrmaps.com/site/1c0dz" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=mZps67DUQSsO1JP9Fx6oRkV89qTqoJeMlvxG8RC3CwU&cl=ffffff"></a>)
