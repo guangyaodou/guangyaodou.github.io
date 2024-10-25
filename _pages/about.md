@@ -56,8 +56,6 @@ Publications
 <!-- Clustrmaps Widget -->
 <div style="width: 150px; height: auto;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mZps67DUQSsO1JP9Fx6oRkV89qTqoJeMlvxG8RC3CwU&cl=ffffff&w=a"></script>
-  <a href="https://clustrmaps.com/site/1c0dz" title="Visit tracker">
-    <img src="//www.clustrmaps.com/map_v2.png?d=mZps67DUQSsO1JP9Fx6oRkV89qTqoJeMlvxG8RC3CwU&cl=ffffff" style="width: 100%; height: auto;">
   </a>
 </div>
 
