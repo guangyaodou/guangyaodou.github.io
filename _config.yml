@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Guangyao Dou"
   avatar           : "Guangyao_Profile.png"
-  bio              : "First year Data Science Master's Student at Penn"
+  bio              : "Second year Data Science Master's Student at Penn"
   location         : "Philadelphia, PA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "guangyao-dou"
-  orcid            : "https://orcid.org/0000-0001-8011-9658"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
