@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Guangyao Dou"
-  avatar           : "Guangyao_Profile_New.png" 
+  avatar           : "IMG_5545.png"  
   bio              : "Second year Data Science Master's Student at Penn"
   location         : "Philadelphia, PA"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : https://x.com/GuangyaoDou 
   vine             :
   weibo            :
   xing             :
