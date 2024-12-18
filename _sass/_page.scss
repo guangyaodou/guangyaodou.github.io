@@ -276,6 +276,13 @@
   }
 }
 
+.no-underline {
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline; // Optional: underline on hover
+    }
+}
 
 /*
    Comments
