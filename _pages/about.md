@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Data Science master's student at the University of Pennsylvania. I am doing my master's thesis on unlearning for LLMs under the supervision of Professor Chris Callison-Burch.
+I am a second-year Data Science master’s student at the University of Pennsylvania. I completed my master’s thesis on unlearning for LLMs under the supervision of Professor Chris Callison-Burch. I also won the Best Thesis Award at Penn!
 
 Publications
 ======

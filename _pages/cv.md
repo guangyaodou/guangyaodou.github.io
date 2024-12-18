@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My CV is [here](http://guangyaodou.github.io/files/CV_Guangyao.pdf)
+My CV is [here](http://guangyaodou.github.io/files/Guangyao_Dou_CV.pdf)
