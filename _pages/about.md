@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Data Science master’s student at the University of Pennsylvania. I completed my master’s thesis on unlearning for LLMs under the supervision of Professor Chris Callison-Burch. I also won the Best Thesis Award at Penn!
+I am a second-year Data Science master’s student at the University of Pennsylvania. I completed my [master’s thesis](http://guangyaodou.github.io/files/guangyao_master_s_thesis.pdf) on unlearning for LLMs under the supervision of Professor Chris Callison-Burch. I also won the Best Thesis Award at Penn! 
 
 Publications
 ======
